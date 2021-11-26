@@ -24,7 +24,7 @@ def circulate():
 ~~~
 
 ## Output:
-![GitHub Logo](RAKSHITHA DEVI_CIR.png)
+![GitHub Logo](rakshi.png)
 
 
 ## Result:
